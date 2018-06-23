@@ -1,4 +1,9 @@
-# N.exchange Open Client (ReactJS)
+# Ndaexchanger
+
+Ndaexchanger is an automated cryptocurrency exchange service, operated by Dae Platform.
+Ndaexchanger is powered by N.exchange.
+
+## N.exchange Open Client (ReactJS)
 
 N.exchange Open Client is a front-end client for [N.exchange.io](https://n.exchange/) API. The API is available to the public and its [comprehensive documentation](http://docs.nexchange2.apiary.io/) can be found here.
 
